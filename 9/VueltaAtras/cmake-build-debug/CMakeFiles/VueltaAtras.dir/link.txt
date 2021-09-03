@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/VueltaAtras.dir/main.c.o CMakeFiles/VueltaAtras.dir/backtracking.c.o  -o VueltaAtras.exe -Wl,--out-implib,libVueltaAtras.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
