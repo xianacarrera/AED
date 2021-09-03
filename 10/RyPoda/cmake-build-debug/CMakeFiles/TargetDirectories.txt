@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/cmake-build-debug/CMakeFiles/RyPoda.dir
