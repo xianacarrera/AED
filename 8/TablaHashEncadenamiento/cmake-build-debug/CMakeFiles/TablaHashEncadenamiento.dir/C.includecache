@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Xiana/CLionProjects/TablaHashEncadenamiento/lista.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/TablaHashEncadenamiento/main.c
+stdio.h
+-
+time.h
+-
+tabla_hash_encadenamiento.h
+/cygdrive/c/Users/Xiana/CLionProjects/TablaHashEncadenamiento/tabla_hash_encadenamiento.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/TablaHashEncadenamiento/tabla_hash_encadenamiento.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+lista.h
+/cygdrive/c/Users/Xiana/CLionProjects/TablaHashEncadenamiento/lista.h
+
