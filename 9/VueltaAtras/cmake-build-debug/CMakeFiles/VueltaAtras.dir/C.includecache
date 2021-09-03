@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Xiana/CLionProjects/VueltaAtras/backtracking.c
+backtracking.h
+/cygdrive/c/Users/Xiana/CLionProjects/VueltaAtras/backtracking.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/VueltaAtras/backtracking.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/VueltaAtras/main.c
+stdio.h
+-
+stdlib.h
+-
+backtracking.h
+/cygdrive/c/Users/Xiana/CLionProjects/VueltaAtras/backtracking.h
+
