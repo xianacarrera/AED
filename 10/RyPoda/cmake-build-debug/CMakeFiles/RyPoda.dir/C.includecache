@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/lista.c
+stdlib.h
+-
+lista.h
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/lista.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/lista.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/main.c
+stdio.h
+-
+stdlib.h
+-
+ramificacion_poda.h
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/ramificacion_poda.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/ramificacion_poda.c
+ramificacion_poda.h
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/ramificacion_poda.h
+
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/ramificacion_poda.h
+lista.h
+/cygdrive/c/Users/Xiana/CLionProjects/RyPoda/lista.h
+

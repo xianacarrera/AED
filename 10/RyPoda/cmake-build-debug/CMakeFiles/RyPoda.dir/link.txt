@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/RyPoda.dir/main.c.o CMakeFiles/RyPoda.dir/ramificacion_poda.c.o CMakeFiles/RyPoda.dir/lista.c.o  -o RyPoda.exe -Wl,--out-implib,libRyPoda.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
